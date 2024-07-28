@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img align="center" src="logo.png" width=20% ><br>Jeronimo Riveros</h1>
+<img align="center" src="logo.png" width=100% >
 <h3 align="center">Full Stack Developer specialized in React and Python</h3>
 
 <p align="center">
