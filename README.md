@@ -58,4 +58,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=45% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=50%  alt="Max1mus5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=100%/></p>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1mus5&theme=dark) 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1mus5&theme=dark"  width=100% />
