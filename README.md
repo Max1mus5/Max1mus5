@@ -54,8 +54,9 @@
   </a>
 
 </p>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=ffffff&line=1e90ff&point=00bfff&area=true&hide_border=true"  width=100% />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=45% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=50%  alt="Max1mus5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=100%/></p>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max1mus5&theme=dark"  width=100% />
+
