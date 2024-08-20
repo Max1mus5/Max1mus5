@@ -54,7 +54,7 @@
   </a>
 
 </p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=f0f0f0&line=32cd32&point=228b22&area=true&hide_border=true"  width=100% />
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=eeeeee&line=ff4500&point=dc143c&area=true&hide_border=true"  width=100% />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=45% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=50%  alt="Max1mus5" /></p>
 
