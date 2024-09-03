@@ -60,3 +60,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=100%/></p>
 
+![](https://github-contributor-stats.vercel.app/api?username=Max1mus5&limit=5&theme=dark&combine_all_yearly_contributions=true)
