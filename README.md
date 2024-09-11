@@ -54,10 +54,10 @@
   </a>
 
 </p>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=ffffff&line=fb8c00&point=fefefe&area=true&hide_border=true"  width=100% />
+<img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=ffffff&line=fb8c00&point=fefefe&area=true&hide_border=true"  width=100% />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=100% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=100%  alt="Max1mus5" /></p>
+<p align=center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=110% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=90%  alt="Max1mus5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=100%/></p>
+<p align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=200%/></p>
 
  <!-- ![](https://github-contributor-stats.vercel.app/api?username=Max1mus5&limit=5&theme=dark&combine_all_yearly_contributions=true)   -->
