@@ -53,6 +53,16 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="50"/>
   </a>
 
+  <!-- Azure Icon -->
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="50"/>
+</a>
+
+<!-- Linux Icon -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="50"/>
+</a>
+
 </p>
 <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=ffffff&line=fb8c00&point=fefefe&area=true&hide_border=true"  width=100% />
 
