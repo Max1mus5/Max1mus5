@@ -13,7 +13,7 @@
 </p>
 
 
-- Contact me at **Jeronimoriveros@gmail.com**
+- Contact me at **Jeronimor.dev@gmail.com**
 
 - [SNEIA](https://academia.utp.edu.co/sneia/) member
 
