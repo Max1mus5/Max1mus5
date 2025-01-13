@@ -68,6 +68,5 @@
 
 <p align=center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=40% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=50%  alt="Max1mus5" /></p>
 
-<p align=center><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Max1mus5&theme=dark" alt="Max1mus5" width=200%/></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=max1mus5&theme=highcontrast&border_radius=3.5)](https://git.io/streak-stats)
  <!-- ![](https://github-contributor-stats.vercel.app/api?username=Max1mus5&limit=5&theme=dark&combine_all_yearly_contributions=true)   -->
