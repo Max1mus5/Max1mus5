@@ -64,17 +64,17 @@
 </a>
 
 </p>
-## 📅 Calendario de Contribuciones Combinado
+## 📅 Calendario de Contribuciones
 
-Este calendario muestra mis contribuciones unificadas desde **GitHub**, **GitLab.com** y **GitLab privado (GISOSA)**, actualizándose automáticamente cada día:
+Este calendario muestra mis contribuciones de **GitHub + private contributions in other projects**, actualizándose automáticamente cada día:
 
 <div align="center">
-  <img src="./combined_contributions.svg" alt="Calendario de Contribuciones Combinado" width="100%"/>
+  <img src="./combined_contributions.svg" alt="Calendario de Contribuciones" width="100%"/>
 </div>
 
 <p align="center">
-  <em>📊 Integración automática de contribuciones de múltiples plataformas Git</em><br>
-  <strong>✅ GitHub</strong> • <strong>✅ GitLab.com</strong> • <strong>✅ GitLab GISOSA</strong>
+  <em>📊 GitHub + private contributions in other projects</em><br>
+  <strong>🔄 Actualización automática diaria</strong>
 </p>
 
 ---
