@@ -64,6 +64,21 @@
 </a>
 
 </p>
+## 📅 Calendario de Contribuciones Combinado
+
+Este calendario muestra mis contribuciones unificadas desde **GitHub**, **GitLab.com** y **GitLab privado (GISOSA)**, actualizándose automáticamente cada día:
+
+<div align="center">
+  <img src="./combined_contributions.svg" alt="Calendario de Contribuciones Combinado" width="100%"/>
+</div>
+
+<p align="center">
+  <em>📊 Integración automática de contribuciones de múltiples plataformas Git</em><br>
+  <strong>✅ GitHub</strong> • <strong>✅ GitLab.com</strong> • <strong>✅ GitLab GISOSA</strong>
+</p>
+
+---
+
 <img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=Max1mus5&bg_color=141414&color=ffffff&line=fb8c00&point=fefefe&area=true&hide_border=true"  width=100% />
 
 <p align=center><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Max1mus5&show_icons=true&locale=en&layout=compact&theme=dark" width=40% alt="Max1mus5" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=Max1mus5&show_icons=true&locale=en&theme=dark"  width=50%  alt="Max1mus5" /></p>
