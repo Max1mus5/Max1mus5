@@ -64,9 +64,10 @@
 </a>
 
 </p>
-## 📅 Calendario de Contribuciones
 
-Este calendario muestra mis contribuciones de **GitHub + private contributions in other projects**, actualizándose automáticamente cada día:
+<h2 align="center">Schedule of Contributions</h2>
+
+<p align="center">This calendar shows my **GitHub + private contributions in other projects**, updating automatically every day:</p>
 
 <div align="center">
   <img src="./combined_contributions.svg" alt="Calendario de Contribuciones" width="100%"/>
